@@ -1,4 +1,4 @@
-# Notas del modulo -1
+# Notas del Plan de Estudio
 
 ## Comandos basicos
 - git init: crear repositorio
