@@ -1,15 +1,17 @@
 # Notas del modulo -1
 
 ## Comandos basicos
-git init: crear repositorio
-git add: añadir al staging
-git commit: guardar snapshot
-git status: ver estado actual
-git diff: ver cambios exactos
+- git init: crear repositorio
+- git add: añadir al staging
+    -- git add -p: añadir interactivamente
+- git commit: guardar snapshot
+    -- (generalmente) git commit -m "commit string"
+- git status: ver estado actual
+- git diff: ver cambios exactos
 
 ## Dudas
-¿Como funciona SSH con GitHub?
+- ¿Como funciona SSH con GitHub? -->> Esto lo vemos mas adelante, al conectar con remoto
 
 ## Recursos utiles
-Pro Git Book (gratis online)
--Esto no esta terminado
+- Pro Git Book (gratis online)
+
