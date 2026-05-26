@@ -7,3 +7,4 @@
 ## Herramientas
 - LTSpice (simulacion)
 - KiCAD (PCB)
+- FreeCAD (diseño mecanico)
