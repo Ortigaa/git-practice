@@ -1,4 +1,4 @@
-# Notas del modulo -1
+# Notas de Electronica e Instrumentacion
 
 ## Comandos basicos
 - git init: crear repositorio
