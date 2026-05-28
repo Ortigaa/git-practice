@@ -15,3 +15,5 @@
 ## Recursos utiles
 - Pro Git Book (gratis online)
 
+## Aprendido hoy
+- Push y pull con GitHub
