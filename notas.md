@@ -8,6 +8,9 @@
     -- (generalmente) git commit -m "commit string"
 - git status: ver estado actual
 - git diff: ver cambios exactos
+- git remote add origin: subir un repositorio a la nube
+- git push: subir a un repo
+- git pull: traer de un repo
 
 ## Dudas
 - ¿Como funciona SSH con GitHub? -->> Esto lo vemos mas adelante, al conectar con remoto
