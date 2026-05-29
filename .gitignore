@@ -1,0 +1,14 @@
+# KiCad - Backups automáticos
+*.kicad_pro.bak
+*.kicad_sch.bak
+*.kicad_pcb.bak
+*-backups/
+
+# KiCad - Archivos de sesión y caché
+fp-info-cache
+*.kicad_prl
+*.xml
+
+# KiCad - Netlist y archivos intermedios
+*.dsn
+*.ses
